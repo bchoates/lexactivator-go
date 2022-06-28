@@ -1,3 +1,3 @@
-module github.com/cryptlex/lexactivator-go
+module github.com/bchoates/lexactivator-go
 
 go 1.14
